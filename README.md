@@ -5,8 +5,7 @@ This repository provides a 3-step workflow for mutation energy analysis using a 
 ## 🔧 Installation
 
 ```bash
-#git clone https://github.com/EvoCatalysis/MaxEnt-Pytorch.git
-git clone https://github.com/hsuium/Maxent-pytorch.git
+git clone https://github.com/EvoCatalysis/MaxEnt-Pytorch.git
 cd Maxent-Pytorch
 pip install -r requirements.txt
 ```
