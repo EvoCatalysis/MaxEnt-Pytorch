@@ -16,6 +16,7 @@ import torch.nn.functional as F
 from torch.utils.data import Dataset, DataLoader
 import pickle
 import argparse
+import time
 
 class MSADataset(Dataset):
     def __init__(self, msa_onehot, msa_eff):
