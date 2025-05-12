@@ -7,6 +7,7 @@ Command-line Arguments:
 """
 
 import sys
+import copy
 from msa_lib import *
 import pandas as pd
 
