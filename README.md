@@ -24,7 +24,7 @@ python msa_lib.py --msa input.fasta --gap_cutoff 0.7
 Train a MaxEnt model using the processed MSA.
 
 ```bash
-python train_maxent.py --device 'cuda' --epoch 1000
+python train_maxent.py --device 'cuda' --n_epochs 1000
 ```
 
 ### 3. Predict Mutational Energies
